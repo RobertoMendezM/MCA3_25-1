@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    226469,       3857]
-NotebookOptionsPosition[    225406,       3829]
-NotebookOutlinePosition[    225811,       3845]
-CellTagsIndexPosition[    225768,       3842]
+NotebookDataLength[    226827,       3864]
+NotebookOptionsPosition[    225598,       3834]
+NotebookOutlinePosition[    226079,       3851]
+CellTagsIndexPosition[    226036,       3848]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -24,6 +24,11 @@ Cell["EDO", "Title",
  CellChangeTimes->{{3.9067190600641437`*^9, 
   3.90671906246797*^9}},ExpressionUUID->"80167acd-3de7-4fd7-a5fd-\
 9fcb7873ef29"],
+
+Cell["Prof. Roberto M\[EAcute]ndez M\[EAcute]ndez", "Text",
+ CellChangeTimes->{{3.9067208981263485`*^9, 
+  3.9067209082740593`*^9}},ExpressionUUID->"67e5511c-0bdd-46ac-b3b0-\
+4fe5bc3869db"],
 
 Cell[CellGroupData[{
 
@@ -3829,9 +3834,10 @@ Cell[BoxData[
 },
 WindowSize->{571.8, 524.4},
 WindowMargins->{{284.4, Automatic}, {12, Automatic}},
+PrivateNotebookOptions->{"CloudPublishPath"->"/Published/EDO_RMM_2023.nb"},
 FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (July 24, 2023)",
 StyleDefinitions->"Default.nb",
-ExpressionUUID->"d74a4996-7b01-43e1-8f48-2a85491b6938"
+ExpressionUUID->"827478b9-9322-42da-b2bc-988c47bd69f4"
 ]
 (* End of Notebook Content *)
 
@@ -3846,20 +3852,23 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 147, 3, 98, "Title",ExpressionUUID->"80167acd-3de7-4fd7-a5fd-9fcb7873ef29"],
+Cell[730, 27, 189, 3, 35, "Text",ExpressionUUID->"67e5511c-0bdd-46ac-b3b0-4fe5bc3869db"],
 Cell[CellGroupData[{
-Cell[752, 29, 247, 7, 117, "Chapter",ExpressionUUID->"f78a3848-fd89-4497-a6d6-f1ea84abb03f"],
-Cell[1002, 38, 243, 4, 35, "Text",ExpressionUUID->"ad1df168-d375-4292-bf8f-1e35254b70fc"],
+Cell[944, 34, 247, 7, 117, "Chapter",ExpressionUUID->"f78a3848-fd89-4497-a6d6-f1ea84abb03f"],
+Cell[1194, 43, 243, 4, 35, "Text",ExpressionUUID->"ad1df168-d375-4292-bf8f-1e35254b70fc"],
 Cell[CellGroupData[{
-Cell[1270, 46, 687, 19, 52, "Input",ExpressionUUID->"fc6e01b2-0173-473f-8b79-2f96d425dbed"],
-Cell[1960, 67, 71318, 1237, 376, "Output",ExpressionUUID->"ee2d689c-3758-4d22-a777-d92b71adebf5"]
+Cell[1462, 51, 687, 19, 52, "Input",ExpressionUUID->"fc6e01b2-0173-473f-8b79-2f96d425dbed"],
+Cell[2152, 72, 71318, 1237, 376, "Output",ExpressionUUID->"ee2d689c-3758-4d22-a777-d92b71adebf5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[73315, 1309, 613, 15, 48, "Input",ExpressionUUID->"b7c4c001-06ef-41a3-acac-4280a51c3d98"],
-Cell[73931, 1326, 151435, 2498, 400, "Output",ExpressionUUID->"1493d8ba-59f0-459e-bdfb-f75e79fe81c5"]
+Cell[73507, 1314, 613, 15, 48, "Input",ExpressionUUID->"b7c4c001-06ef-41a3-acac-4280a51c3d98"],
+Cell[74123, 1331, 151435, 2498, 376, "Output",ExpressionUUID->"1493d8ba-59f0-459e-bdfb-f75e79fe81c5"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
+
+(* End of internal cache information *)
 
